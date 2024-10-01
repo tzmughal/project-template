@@ -4,3 +4,4 @@
 git clone https://github.com/tzmughal/project-template.git
 cd project-template
 Remove-Item -Recurse -Force .git
+code .
